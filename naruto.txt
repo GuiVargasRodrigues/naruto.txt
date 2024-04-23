@@ -16,3 +16,7 @@ Simule a conclusão de missões ninja. Crie uma função que permita aos aspiran
 
 Exemplo:
  const recompensaChakra = Math.floor(Math.random() * (15 - 5 + 1)) + 5;
+
+Exiba o progresso de cada aspirante a ninja, mostrando seu nome, nível de chakra, habilidades ninjas e missões concluídas após cada ação.
+
+Após várias ações de treinamento, adição de habilidades e conclusão de missões, determine qual dos três aspirantes a ninja se tornou o ninja mais habilidoso, com base no nível total de chakra e habilidades ninjas. Exiba o nome do vencedor.
